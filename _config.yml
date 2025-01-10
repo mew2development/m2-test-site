@@ -1,4 +1,5 @@
-theme: minima
+# _config.yml
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 title: Mew2 Collectables Limited
 author: Mew2 Development
 description: Test site.
